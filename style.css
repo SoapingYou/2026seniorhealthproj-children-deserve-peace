@@ -104,7 +104,7 @@ main {
 }
 
 .info_card_wide{
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: center;
     border: 1px solid #66b2ff;
