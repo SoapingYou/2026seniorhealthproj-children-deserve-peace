@@ -1,5 +1,8 @@
 * {
     box-sizing: border-box;
+    background-color:#001030;
+    color: white;
+    font: verdana, sans-serif;
 }
 .navbar{
     background-color: #001030;
@@ -100,18 +103,4 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.info_card_squish_long{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width:50%;
-}
-
-.info_card_squish_short{
-    display: right;
-    align-items: center;
-    justify-content: center;
-    width:50%;
 }
